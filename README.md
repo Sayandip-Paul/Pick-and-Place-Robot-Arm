@@ -71,8 +71,7 @@ This project demonstrates a **pick-and-place robotic arm** controlled by an **Ar
 ## Authors
 - **Piyush Sharma**  
 - **Sayandip Paul**  
-- **Prathamesh Bhumkar**  
-- **Susnehal Lade**  
+- **Prathamesh Bhumkar**   
 
 ## License
 This project is licensed under the **MIT License**.
@@ -80,9 +79,3 @@ This project is licensed under the **MIT License**.
 ## Acknowledgments
 - **Symbiosis Institute of Technology (SIT), Pune** for guidance and resources.
 - Special thanks to **Ms. Priya Jadhav** for mentoring the project.
-
----
-### Additional Resources
-- Full Project Report: [Pick-and-Place Robotic Arm Report](report.pdf)
-- Arduino Code: [robot_arm_code.ino](robot_arm_code.ino)
-
